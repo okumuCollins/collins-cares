@@ -1,0 +1,41 @@
+/* BASIC STYLES */
+body {
+    margin: 0px;
+    
+    padding: 0px 50px;
+    font-family: 'Roboto', sans-serif;
+    background-color: azure;
+  }
+  
+  header {
+    width: 200%;
+  }
+  
+
+  /* NAV BAR */
+  #nav_bar {
+    background-color: black;
+    padding: 50px;
+    margin-left: -40px;
+    margin-right: 1400px;
+  }
+
+
+  /*IMAGE*/
+  img{width: 200px; 
+      height: 200px;
+      float: left;
+      border-radius: 400px;
+      text-align: center;
+      
+  }
+
+
+   /*IMAGE DESC*/
+  .description{color: black;
+               display: inline;
+               text-align: justify;
+               text-indent: 100px;
+               padding: 50px;
+               
+  }
